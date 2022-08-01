@@ -1,0 +1,17 @@
+D:\ProjectsCS\ProAuto\bin\Debug\ProAuto.exe.config
+D:\ProjectsCS\ProAuto\bin\Debug\ProAuto.exe
+D:\ProjectsCS\ProAuto\bin\Debug\ProAuto.pdb
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.csproj.AssemblyReference.cache
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.csproj.SuggestedBindingRedirects.cache
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AuthForm.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.MainForm.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.Properties.Resources.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.csproj.GenerateResource.cache
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.csproj.CoreCompileInputs.cache
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.exe
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.pdb
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AddClient.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AddCar.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AddManager.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AddSupplies.resources
+D:\ProjectsCS\ProAuto\obj\Debug\ProAuto.AddOrder.resources
